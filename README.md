@@ -56,3 +56,4 @@ Then start the backend from `backend/`:
 npm start
 ```
 "# food_ai_server" 
+"# food_ai_server" 
