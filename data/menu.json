@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "name": "Breakfast",
+      "items": [
+        {"id": "b1", "name": "Idli", "price": 35},
+        {"id": "b2", "name": "Dosa", "price": 45},
+        {"id": "b3", "name": "Pongal", "price": 50},
+        {"id": "b4", "name": "Upma", "price": 30},
+        {"id": "b5", "name": "Poori", "price": 40},
+        {"id": "b6", "name": "Paratha", "price": 55},
+        {"id": "b7", "name": "Sandwich", "price": 60},
+        {"id": "b8", "name": "Omelette", "price": 35},
+        {"id": "b9", "name": "Appam", "price": 45},
+        {"id": "b10", "name": "Vada", "price": 25}
+      ]
+    },
+    {
+      "name": "Lunch",
+      "items": [
+        {"id": "l1", "name": "Biryani", "price": 120},
+        {"id": "l2", "name": "Meals", "price": 110},
+        {"id": "l3", "name": "Fried Rice", "price": 95},
+        {"id": "l4", "name": "Noodles", "price": 90},
+        {"id": "l5", "name": "Paneer Curry", "price": 130},
+        {"id": "l6", "name": "Chicken Curry", "price": 140},
+        {"id": "l7", "name": "Curd Rice", "price": 60},
+        {"id": "l8", "name": "Lemon Rice", "price": 70},
+        {"id": "l9", "name": "Veg Pulao", "price": 80},
+        {"id": "l10", "name": "Sambar Rice", "price": 65}
+      ]
+    },
+    {
+      "name": "Dinner",
+      "items": [
+        {"id": "d1", "name": "Chapathi", "price": 50},
+        {"id": "d2", "name": "Parotta", "price": 55},
+        {"id": "d3", "name": "Burger", "price": 90},
+        {"id": "d4", "name": "Pasta", "price": 110},
+        {"id": "d5", "name": "Tacos", "price": 100},
+        {"id": "d6", "name": "Shawarma", "price": 105},
+        {"id": "d7", "name": "Soup", "price": 60},
+        {"id": "d8", "name": "Steak", "price": 220},
+        {"id": "d9", "name": "Salad", "price": 75},
+        {"id": "d10", "name": "Pizza", "price": 155}
+      ]
+    },
+    {
+      "name": "Snacks",
+      "items": [
+        {"id": "s1", "name": "Momos", "price": 65},
+        {"id": "s2", "name": "Samosa", "price": 25},
+        {"id": "s3", "name": "Fries", "price": 55},
+        {"id": "s4", "name": "Cutlet", "price": 45},
+        {"id": "s5", "name": "Pakoda", "price": 50},
+        {"id": "s6", "name": "Chips", "price": 40},
+        {"id": "s7", "name": "Nuggets", "price": 70},
+        {"id": "s8", "name": "Popcorn", "price": 35},
+        {"id": "s9", "name": "Spring Roll", "price": 60},
+        {"id": "s10", "name": "Bajji", "price": 45}
+      ]
+    }
+  ]
+}
